@@ -8,10 +8,10 @@ The stack is Vue2 option API, Quasar, Scss, Vuex, Eslint, Prettier and there are
 
 # Images
 
-![home_page](https://github.com/fdgenie/HotelMania/blob/main/public/images/Home_page_desktop.png)
-![create_shipment_desktop](https://github.com/fdgenie/HotelMania/blob/main/public/images/Create_shipment_desktop.png)
-![eta_alert](https://github.com/fdgenie/HotelMania/blob/main/public/images/ETA_Alert_desktop.png) 
-![home_page_mobile](https://github.com/fdgenie/HotelMania/blob/main/public/images/Home_page_mobile.png)
+![home_page](https://github.com/fdgenie/Estimator/blob/main/public/images/Home_page_desktop.png)
+![create_shipment_desktop](https://github.com/fdgenie/Estimator/blob/main/public/images/Create_shipment_desktop.png)
+![eta_alert](https://github.com/fdgenie/Estimator/blob/main/public/images/ETA_Alert_desktop.png) 
+![home_page_mobile](https://github.com/fdgenie/Estimator/blob/main/public/images/Home_page_mobile.png)
 
 ## Install the dependencies
 
