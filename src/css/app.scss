@@ -1,0 +1,21 @@
+// app global css in SCSS form
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+//Header styles
+.header {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+}
+
+.app-title {
+  font-weight: bold;
+  font-size: 2em;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+}
